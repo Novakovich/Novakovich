@@ -12,7 +12,7 @@ I'm a Python developer and am currently part of the "MVP connect" team developin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Novakovich&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Novakovich&icon=2&color=1)](https://visitcount.itsvg.in)
